@@ -154,6 +154,10 @@ Rules:
 
 MIT — Clone it, share it but not forking since continuously updated
 
+## Disclaimer
+
+All decision data in the templates is fictional and anonymized. The entries are examples to show how the journal and audit work. Replace them with your own decisions to get real value from the LEARN layer.
+
 ---
 
 **Built by [Varun Kulkarni](https://www.linkedin.com/in/varun-kulkarni/) — AI Product Manager building tools that make PMs sharper, not lazier.**
