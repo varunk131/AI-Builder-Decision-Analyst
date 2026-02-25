@@ -152,7 +152,7 @@ Rules:
 
 ## License
 
-MIT — Clone it, share it but not forking since continuously updated
+MIT
 
 ## Disclaimer
 
@@ -160,4 +160,5 @@ All decision data in the templates is fictional and anonymized. The entries are 
 
 ---
 
-**Built by [Varun Kulkarni](https://www.linkedin.com/in/varun-kulkarni/) — AI Product Manager building tools that make PMs sharper, not lazier.**
+**Built by [Varun Kulkarni](https://www.linkedin.com/in/varun-kulkarni/) — AI Product Manager building tools that make Ai Builders increase impact 10x.**
+Give stars or leave a review if you like this!
