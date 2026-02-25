@@ -143,12 +143,7 @@ ai-builder-decision-analyst/
 
 ## Contributing
 
-Built a coaching skill that challenges PM thinking? Open a PR.
-
-Rules:
-- The skill must **ask questions or challenge thinking**, not generate deliverables
-- The skill must surface something the PM hasn't considered
-- The output should end with one question the PM needs to answer
+Reach out to Varun if you are interested in collaborating.
 
 ## License
 
